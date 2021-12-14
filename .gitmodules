@@ -1,0 +1,3 @@
+[submodule "Kata18/include"]
+	path = Kata18/include
+	url = https://github.com/shashank-prajapati/submodule-repo.git
