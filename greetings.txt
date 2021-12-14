@@ -1,3 +1,5 @@
 Hello world Feature;
 supersecretpassword
 added Documentation
+Testing done
+One semicolon was missing
